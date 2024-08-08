@@ -1,0 +1,3 @@
+const deployedAddress = '0x5cED43F3224e3F7C7EFA6ABdE9A960A44E3B2dD9'
+
+export default deployedAddressNFT ID 1 : https://explorer-evm.testnet.swisstronik.com/tx/0x4aaafd839ee12727617b2470da1e0fc982c1c13e26dcbf6448b613836018dd55
